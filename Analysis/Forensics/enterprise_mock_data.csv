@@ -1,0 +1,4 @@
+opp_id,account_name,crm_value,billed_value,last_activity,discount_pct,approval_status
+OPP-101,Aero-Tech,500000,500000,2026-03-25,10,VP_APPROVED
+OPP-102,Global-Logistics,1200000,0,2026-02-10,35,PENDING
+OPP-105,Health-Plus,950000,0,2026-01-15,40,NO_APPROVAL
