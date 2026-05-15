@@ -34,5 +34,5 @@ This repository showcases a portfolio of **20+ AI-native artifacts** developed t
 ### 🎖️ Credentials & Expertise
 * **Google AI Professional Certificate**: Specialization in Generative AI for Business Process Automation (Completed: March 12, 2026).
 * **Advanced Revenue Operations (RevOps)**: Expertise in Lead-to-Cash (L2C) Lifecycle & Forecast Integrity.
-* **Technical Stack**: SQL (Forensic Audit), Python (Predictive Modeling), CRM (Salesforce/HubSpot Architecture).
+* **Technical Stack**: SQL (Forensic Audit), Python (Predictive Modeling), CRM (Salesforce Architecture).
 * **Strategic Frameworks**: SPO (Sales, Pipeline, Ops) Governance & Cost of Poor Quality (COPQ) Mitigation.
